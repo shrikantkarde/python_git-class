@@ -1,0 +1,28 @@
+source_control Managemnet-----Bitkeeper(company)
+
+{vcs----Verion control system
+dvcs----Distributed version control system}
+
+What is GIT?
+
+Git is Distributed version control system for tracking changes in source code during s/w developement/ it is desiginged for coordinating work among programmers,but it can be to track changes in any set of files,The goals include speed,data integrity and support for 'distributed'.
+
+Note:- Git is totally working command line utility the help of git bash(
+windows)
+
+Release:-7th of April 2005
+
+operation system:- POSIX(Linux,Unix,AIX,Solaris),macOS,Windows
+
+REpository:-git.kernel..org/pub/scm/git/git/git/
+
+Licence:-GPLv2(small company),LGPLv2.1(Large company)
+
+website:- git-scm.com
+
+Father of git:- Linus Torvalds
+
+git was totally made ny linux kernel.
+
+Git lateset version:-27 july 2020 ----2.28.0
+
